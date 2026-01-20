@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Anuj Vijay Mhatre 👋
 
-<!--
-**Anuj18m/Anuj18m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 IT Student at Thakur College of Engineering & Technology (Class of 2027)
+- 💼 Data Analytics Intern @ JSW
+- 🔭 Building AI-powered web applications and dashboards
+- 🌱 Learning Machine Learning & Full-Stack Development
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Python
+- JavaScript
+- Flask
+- HTML, CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Projects
+- 🤖 AI Virtual Assistant
+- 📊 Industrial Analytics Dashboard
+- 💼 Smart Resume & Interview Assistant
+- 🎬 Disney+ Clone
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/anujmhatre17
+- Email: anuj17m@gmail.com
